@@ -27,3 +27,5 @@ and then
 *./lirctest*
 
 to run it.
+
+**Please note, this code has not been tested under dotnet core, but as it's fairly standard C# it should probably work ok**
